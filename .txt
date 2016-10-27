@@ -1,0 +1,30 @@
+Token #1: F C.Lexico: PALABRA RESERVADA: F Line: 0 Column: 0
+Token #2: . C.Lexico: SIGNO DE PUNTUACION Line: 0 Column: 1
+Token #3: OPEN C.Lexico: PALABRA RESERVADA: OPEN Line: 0 Column: 2
+Token #4: ( C.Lexico: SIGNO DE AGRUPACION Line: 0 Column: 6
+Token #5: "archivo" C.Lexico: STRING Line: 0 Column: 7
+Token #6: ) C.Lexico: SIGNO DE AGRUPACION Line: 0 Column: 16
+Token #7: IDENT C.Lexico: PALABRA RESERVADA: IDENT Line: 2 Column: 19
+Token #8: INT C.Lexico: PALABRA RESERVADA: INT Line: 2 Column: 25
+Token #9: : C.Lexico: SIGNO DE PUNTUACION Line: 2 Column: 28
+Token #10: Idh1 C.Lexico: IDENTIFICADOR Line: 2 Column: 29
+Token #11: , C.Lexico: SIGNO DE PUNTUACION Line: 2 Column: 33
+Token #12: Idh2 C.Lexico: IDENTIFICADOR Line: 2 Column: 34
+Token #13: ; C.Lexico: SIGNO DE PUNTUACION Line: 2 Column: 38
+Token #14: FLOAT C.Lexico: PALABRA RESERVADA: FLOAT Line: 3 Column: 40
+Token #15: : C.Lexico: SIGNO DE PUNTUACION Line: 3 Column: 45
+Token #16: Id123 C.Lexico: IDENTIFICADOR Line: 3 Column: 46
+Token #17: ; C.Lexico: SIGNO DE PUNTUACION Line: 3 Column: 51
+Token #18: ENDIDENT C.Lexico: PALABRA RESERVADA: ENDIDENT Line: 4 Column: 53
+Token #19: Idh1 C.Lexico: IDENTIFICADOR Line: 6 Column: 64
+Token #20: = C.Lexico: OPERADOR DE ASIGNACION Line: 6 Column: 68
+Token #21: Idh2 C.Lexico: IDENTIFICADOR Line: 6 Column: 69
+Token #22: + C.Lexico: OPERADOR ARITMETICO Line: 6 Column: 73
+Token #23: 4 C.Lexico: NUMERO ENTERO Line: 6 Column: 74
+Token #24: ; C.Lexico: SIGNO DE PUNTUACION Line: 6 Column: 75
+Token #25: F C.Lexico: PALABRA RESERVADA: F Line: 8 Column: 79
+Token #26: . C.Lexico: SIGNO DE PUNTUACION Line: 8 Column: 80
+Token #27: CLOSE C.Lexico: PALABRA RESERVADA: CLOSE Line: 8 Column: 81
+Token #28: ( C.Lexico: SIGNO DE AGRUPACION Line: 8 Column: 86
+Token #29: "archivo" C.Lexico: STRING Line: 8 Column: 87
+Token #30: ) C.Lexico: SIGNO DE AGRUPACION Line: 8 Column: 96

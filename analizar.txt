@@ -1,0 +1,15 @@
+F.OPEN("archivo")
+
+IDENT 
+INT:Idh1,Idh2;
+FLOAT:Id123;
+ENDIDENT 
+
+Idh1=Idh2+4; 
+
+WHILE Idf1>=Idh2:
+	Idh2=Idh2+4;
+ENDWHILE..
+
+F.CLOSE("archivo")
+
